@@ -1,5 +1,5 @@
 #include <iostream>
-
+//ใครให้ดู
 #include <cmath>
 using namespace std;
 
